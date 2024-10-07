@@ -10,6 +10,7 @@ Esse é um Web Site estático responsivo do spa Calmaria, um spa fictício com a
 
 ## 🍂 Calmaria Spa
 ![img-calmaria](https://github.com/user-attachments/assets/cb428a06-befc-4477-8ae7-94f59c30e866)
+[Deploy Calmaria Spa](https://calmaria-spa-sand.vercel.app/)
 
 ## 💆‍♀️ Técnicas de design
 - HTML semântico;
